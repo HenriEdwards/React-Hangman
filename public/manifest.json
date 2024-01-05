@@ -1,0 +1,8 @@
+{
+  "short_name": "Hangman Game",
+  "name": "Hangman HyperionDev 2023 Henri Edwards",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

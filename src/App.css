@@ -1,0 +1,32 @@
+h1, h2{
+  margin: 25px;
+  font-family: Courier;
+  color: white;
+}
+
+p{
+  margin: 5px;
+  font-family: Courier;
+  color: white;
+}
+
+body, .row{
+  background-color: #1c1c1c;
+  margin: 0;
+  padding: 0;
+}
+
+img{
+  background-color: white;
+  padding: 50px;
+  margin-bottom: 25px;
+}
+
+.btn{
+  font-family: Courier;
+}
+
+.col{
+  margin: 0;
+  padding: 0;
+}
