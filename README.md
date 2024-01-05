@@ -1,7 +1,9 @@
 # Getting Started with React & Hangman
 
 ## Step 1: Install Node.js
-Before you can create a React app, make sure you have Node.js installed on your system. You can download it from the official website: <https://nodejs.org/en>
+Before you can create a React app, make sure you have Node.js installed on your system. 
+
+You can download it from the official website: <https://nodejs.org/en>
 
 ## Step 2: Navigate to the App Directory
 To navigate to the app directory, run the following command:
