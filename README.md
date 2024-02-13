@@ -1,29 +1,10 @@
-# Getting Started with React & Hangman
+# React & Hangman
 
-## Step 1: Install Node.js
-Before you can create a React app, make sure you have Node.js installed on your system. 
+Simple hangman game created using React.
 
-You can download it from the official website: <https://nodejs.org/en>
-
-## Step 2: Navigate to the App Directory
-To navigate to the app directory, run the following command:
-
-`cd my-app`
-
-## Step 3: Install Dependencies
-To install node necessary dependencies, run the following command:
-
-`npm install`
-
-## Step 4: Install Bootstrap
-To add Bootstrap to your React app, run the following command:
-
-`npm install bootstrap`
-
-## Step 5: Start the Development Server
-To start the development server, run the following command:
-
-`npm start`
+## Usage
+- To install node necessary dependencies, run the following command: `npm install`
+- To start the development server, run the following command:`npm start`
 
 ## Hangman Rules
 
@@ -34,3 +15,8 @@ To start the development server, run the following command:
 3: Restart when ever you desire.
 
 4: Click the Help button to see the rules.
+
+## Screenshots
+
+![Screenshot 1](screenshots/game.png)
+*Game page*
