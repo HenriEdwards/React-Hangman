@@ -2,6 +2,10 @@
 
 Simple hangman game created using React.
 
+## Live Link
+
+[Game Link](https://6596d6ec48019a050372f148--harmonious-zuccutto-6382c3.netlify.app)
+
 ## Usage
 - To install node necessary dependencies, run the following command: `npm install`
 - To start the development server, run the following command:`npm start`
